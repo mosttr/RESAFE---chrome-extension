@@ -1,0 +1,69 @@
+{
+  "manifest_version": 3,
+  "name": "ReSAFE",
+  "version": "2.0",
+  "description": "Extra protection for your Chrome browser: malicious download blocker, adblocker, phishing protection, and malicious extension disabler.",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestWithHostAccess",
+    "storage",
+    "scripting",
+    "activeTab",
+    "management",
+    "downloads", "downloads.shelf",
+    "cookies",
+    "privacy",
+    "notifications"
+  ],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "Popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["Warning_googledoc.png", "block.html", "ExtensionBlocked.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+ "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      },
+      {
+        "id": "ruleset_221",
+        "enabled": true,
+        "path": "TypoProtection.json"
+      },
+      {
+        "id": "ruleset_3000",
+        "enabled": true,
+        "path": "adrules.json"
+      },
+      {
+        "id": "trackersRULE",
+        "enabled": true,
+        "path": "antitrackers.json"
+      }
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
