@@ -1,0 +1,1359 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "malicious-site.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "phishing-site.net", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "dangerous-site.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "planetrbx.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "blx.gg", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "cardsrus.pro", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "websim.ai", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "oercommons.s3.amazonaws.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "oercommoons.s3.amazonaws.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "igenerator.site", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "roblox.ge", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxguard.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://cardking.xyz/fortnite/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://camps.target-mobi.biz/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bio.site/robuxs", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rblxcopy.so", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robux.gifts", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "onlybux.live", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "kingbux.site", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "homebrewe.sh", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "storcpdkenticomedia.blob.core.windows.net/media/idd/media/lolorg/rbx", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//bloxgame.us/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "open-woodpecker.static.domains/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robux.claims/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "aceyvbucks.com//", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 26,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ezzgifts.click/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 27,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "imperioblox.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 28,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freebobux.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 29,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freerobux.en.uptodown.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 30,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "faithtoday.ca/FitFactory/media/Content/rds.html", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 31,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxearn.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 32,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "claimrbx.gg", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 33,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux-700.soft112.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 34,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbx.best", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 35,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "sweetrbx.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 36,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "beacons.ai/robloxfunn", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 37,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "pikgen.one", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 38,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rolinked.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 39,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "roblox.ge", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 40,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "companiadeteatroanaminsantiago.fun/end?gad_source=1&gclid=CjwKCAiA5eC9BhAuEiwA3CKwQv_Z3LC0mVC6td61kEqaIs2yUfrSM0suL6bchzh7Y", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 41,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www.jcwgm.site", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 42,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "awndsjkduiukekwltdadjwadawds.ru/awidsmdjnfsd", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 43,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "awndsjkduiukekwltdadjwadawds.ru", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 44,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "pentagon.cy", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 45,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bongbonger.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 46,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//mobiforu.com/index.php?r=viewNew&t=KPB9Y&clickid=67b8cac88c95d900015b4dac&pub_id=3554_u495722", "resourceTypes": ["main_frame"] }
+  },
+
+  {
+    "id": 47,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "mobiforu.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 48,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//10k-robux-here.blogspot.com/?m=1", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 49,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "hqdishop5.blogspot.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 50,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux-24h.offerhere.xyz", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 51,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux-updated.offerhere.xyz", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 52,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robux-free-now.offerhere.xyz", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 53,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robuxs-4u.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 54,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "roblxpromo.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 55,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "roblox-robux-gen-vip.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 56,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "mackerel-3-us.tlsext.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 57,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//companiadeteatroanaminsantiago.fun/end?gad_source=1&gclid=CjwKCAiA5eC9BhAuEiwA3CKwQrEgZxyn7FVtzeutiZmiYB22DQCrEdE4dwRdywNAgP_baCTUDc8XZhoCGPUQAvD_BwE", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 58,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freerobuxgive", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 59,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freevbucksinstant", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 60,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//vb25.us", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 61,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxkinggo.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 62,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//rbxtiproz.blogspot.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 63,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxworld.net/invitation/5281500", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 64,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "claimnow.top/roblox/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 65,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "claimnow.top", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 66,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "lordsybuxy.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 67,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "addbux2025.pages.dev/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 68,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "getrobux.gg", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 69,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freerobuxmsn.weebly.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 70,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "linktr.ee/tryndamereone?gad_source=1&gclid=Cj0KCQjwhb60BhClARIsABGGtw_dG8RNzf5Y67O-xYJid1zGr5VLWahPkf9AyhwRIeZoVzoL1LHzK1MaAl9LEALw_wcB", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 71,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "blox.gg", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 72,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux-claim-now-august2023.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 73,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "fshas.site/free-robux-generator/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 74,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//baptistsonmission.org/getmedia/51ddb0a3-05f1-4a15-9301-38a5bd47745e/5HlGv", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 75,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "globlshpcompany.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 76,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "youareanidiot.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 77,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//dash1.okchin.online/file.zip?c=AAQFv2f7YAUAn4ICAElRFwASAAAAAACu", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 78,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ezdrivema.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 79,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "subtitleseeker.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 80,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "financereports.co", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 81,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ffupdate.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 83,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "creativebookmark.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 84,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "performance-publique.budget.gouv.fr", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 85,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bpwhamburgorchardpark.org", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 86,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxsooz.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 87,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//www.earnrobux.net/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 88,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//rbxgoton2025.blogspot.com/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 89,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbx10.netlify.app", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 90,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//redeardente.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 91,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "//ro-esh.pages.dev/", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 92,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "toptricks.ru/robux303", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 93,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "xdif432.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 94,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robux-robux-roblox.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 95,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "claimhere.me", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 96,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "buxnice.online", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 97,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "melcomplo.islue.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 98,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "RRB10.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 99,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Rbt300.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 100,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Rbt400.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 101,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Beacons.ai/robgifts001", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 102,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "adicomplo.cainwalker.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 103,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "wextruco.islue.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 104,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Beacons.ai/robloxgiv", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 105,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "1bux.xyz", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 106,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-42k-robux.blogspot.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 107,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "RT6.LOL", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 108,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "PiloSaleLtd.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 109,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "PiloLtd.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 110,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "TiffanyCoShop.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 111,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Sheingivesback.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 112,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Sheingivesback.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 113,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "wallpapercave.com", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 114,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bnidigital.com/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 115,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "givitruco-mundo.tumblr.com/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 116,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxawards.com/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 117,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxstrap.org/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 118,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxstrap.com/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 119,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxstrap.net/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 120,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "storiescover.com/*", "resourceTypes": ["main_frame"] }
+  },
+  {
+    "id": 121,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "californiahsfootball.com/*", "resourceTypes": ["main_frame"] }
+  }, 
+ {
+    "id": 122,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux.ru//*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 123,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "free-robux.ru//*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 124,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "blinklist.com/gaming/stagbux-com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 125,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://staging-me-academy.geo.de/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 126,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "collectrobux.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 127,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbx.digital/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 128,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "plisbux.site/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 129,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www.mk1642.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 130,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www.satellite13.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 131,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "freerobux.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 132,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rockingfolders.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 133,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rblx.land/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 134,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "myrbx.org/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 135,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "instarobux.gg/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 136,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robuxworking.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {
+    "id": 137,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ublock.org/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 138,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "1yeti.live/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 139,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "jeepaunucoast.net/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 140,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "llaun.ch/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 141,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "tlauncher.org/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 142,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "tlauncher.en.uptodown.com/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 143,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "tlauncher.co.com/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 144,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxfusi.blogspot.com/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 145,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxspzla.blogspot.com/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 146,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "schedule1money.blogspot.com/*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 147,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "kingtomplo.generadoresonline.store//*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 148,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "apkys.xyz//*", "resourceTypes": ["main_frame"] }
+  },
+{
+    "id": 149,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "lossless-scaling.com//*", "resourceTypes": ["main_frame"] }
+  },
+
+{
+    "id": 150,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bookwhisp.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 151,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www1.zippyshare.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 152,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "immo1914.vercel.app//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 153,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "turtleclient.xyz//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 154,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "media-static-prod.s3.pl-waw.scw.cloud//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 155,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "R45.site//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 156,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "getkmspico.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 157,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "download.artificusbrowser.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 158,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "adinstall-adblockers.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 159,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "file.fan//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 160,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "kmspico.ws//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 161,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "trk.kstrk.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 162,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "cvqdsdd00fes73fp4d6g.networkvox.xyz//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 163,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "cvqdtk50073fp4d6g.networkvox.xyz//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 164,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "cvqe9vt00fes73fp5pc0.mosgdefence.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 165,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "googlek.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 166,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "VbUcKs4FrE.WorK//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 167,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "MODSGEN.MONSTER//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 168,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "afploz.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 169,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "superiourdownload.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 170,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "OOGET.com//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 171,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "buxspot.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 172,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxway.click/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 173,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "buxyopen.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 175,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "http://8.222.220.245/roblox-free-robux.com", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 176,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rx9.pro/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 177,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www.gtop.3.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 178,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "www.gen9.top/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 179,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bloxstraps.net/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 180,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "tety.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 181,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbxsfieri.blogspot.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 182,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "rbux.io/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 183,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "oblivora.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 184,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ooget.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 185,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "poplardealthcarrying.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 186,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "forever21usausa.net/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 187,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "e.vg/VaRHtKZKy/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 188,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "en.pharloganyo.org/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 189,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "croyable.bionight/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 190,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "nightbux.click/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 191,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "bio.now/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 192,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "beacons.ai/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 193,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "superbux.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 194,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "megabux.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 195,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "infocu.com.br/fr/rec2-como-ganhar-robux-gratis//*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 196,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "azgifts.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 197,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "dailybux.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 198,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "mdgames.xyz/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 199,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robuxpayouts.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 200,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robloxbuxbonus.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 201,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "fastrobuxgen.net/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 202,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "dailybuxclaim.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 203,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "buxdrop.net/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 204,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "robuxvault.org/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 205,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "superbux.site/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 206,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "KL2.PRO", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 207,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://steamcommunirlty.com/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 208,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "steamcommunirtly.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 209,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "ucoz.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 210,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "17ebook.co/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 211,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "sapo.pt/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 212,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "aladel.net/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 213,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "clicnews.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 214,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "amazonaws.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 215,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "blogspot.de/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 216,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "steamecormmunnity.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 217,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "MyFaceBoxer.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 218,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Luvasti.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 219,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "Morrity.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 220,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "BedBathClose.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 221,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "toprobux.claim/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 222,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "claim22krbx.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 223,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "45-56-64-42.ip.linodeusercontent.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {    "id": 224,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "trout-west-5-us.tlsext.com/*", "resourceTypes": ["main_frame"] }
+  },
+ {    "id": 225,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "usa.negocios-digitales.site//*", "resourceTypes": ["main_frame"] }
+  },
+ {    "id": 226,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://rbxtools.kg/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 227,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://rbxraffles.com/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 228,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://installyourfiles.com/Robux5/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 229,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "cardking.xyz/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 230,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "epiclevelzone/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 231,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://robuxusa.click/5ce74be/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 232,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "https://collabs-auth.xyz", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 233,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "http://wholeactualnewz.com/", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 234,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "http://jacquifarrants.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 235,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "http://yb.packersskinned.shop/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 236,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "u99.pro/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 237,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "http://htmlvalidator.app/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 238,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://ro-verify.com/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 239,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://roblox.com.tg/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 240,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://roblox.com.mq/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 241,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://roblox.com.ag/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 242,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://roblox.com.ag/*", "resourceTypes": ["main_frame"] }
+  },
+{    "id": 243,
+    "priority": 1,
+    "action": { "type": "redirect", "redirect": { "extensionPath": "/block.html" } },
+    "condition": { "urlFilter": "*://Lefowex.com/*", "resourceTypes": ["main_frame"] }
+  }
+]
+
